@@ -59,6 +59,6 @@ On the employee end, once logged into their helpdesk portal at http://localhost/
 <img src="https://github.com/bck9marketing/osticket-ticket-lifecycle/assets/159003800/d2cad1d5-3e8c-4d7c-befd-f1f41acfc259" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Here is an example of an open ticket. Here a system admin can properly determine the Priority, the SLA, what Department it should go to, or who to assign the ticket to. You can view the history of the ticket which will past comments and changes that have occurred to the ticket. Once the ticket has been assigned to the proper employee/department, the responsible party can then work with the customer to resolve the ticket. Once marked as resolved, the ticket will the be taken off the open ticket queue and moved to the "Closed" section.
+Here is an example of an open ticket. Here a system admin can properly determine the Priority, the SLA, what Department it should go to, or who to assign the ticket to. You can view the history of the ticket which will display past comments and changes that have occurred throughout the ticket's lifespan. Once the ticket has been assigned to the proper employee/department, the responsible party can then work with the customer to resolve the ticket. Once marked as resolved, the ticket will the be taken off the open ticket queue and moved to the "Closed" section.
 </p>
 <br />
